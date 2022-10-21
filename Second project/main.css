@@ -1,0 +1,31 @@
+.container{
+    width: 70%;
+    margin: 100px auto;
+  text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.t1{
+    text-align: center;
+}
+.card{
+    background-color: white;
+    border: solid 2px #ccc;
+    width: 29%;
+    height: 50vh;
+    margin-top: 10px;
+}
+.card img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    
+}
+.card:hover{
+    box-shadow: #ccc,#ccc;
+    transform: scale(1.1);
+
+}
