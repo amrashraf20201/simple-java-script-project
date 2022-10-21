@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+
+.color-list{
+    /* background-color: aqua; */
+    height: 50vh;
+    width: 25vw;
+    float: left;
+
+}
+.nput1{
+    display: block;
+    height: 25%;
+    width: 25%;
+}
+.appearance{
+    background-color: black;
+    height: 50vh;
+    width: 25vw;
+    float: left;
+} 
+.clr{
+    clear: both;
+}
